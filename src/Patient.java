@@ -18,6 +18,7 @@ public class Patient extends User{
 	/**
 	 * @return the gender
 	 */
+	
 	public char getGender() {
 		return gender;
 	}
