@@ -7,7 +7,6 @@ public class User {
 	private String email;
 	private String DEFAULT = "Unknown";
 	
-	
 	public User(int id, String firstName, String lastName, String phoneNum, String email) {
 		setId(id);
 		setFirstName(firstName);

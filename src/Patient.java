@@ -45,5 +45,4 @@ public class Patient extends User{
 		return super.toString() + "\nDate of birth: " + dateBirth + ". Gender: " + gender;
 				
 	}
-	
 }

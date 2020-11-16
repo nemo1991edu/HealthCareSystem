@@ -45,5 +45,4 @@ public class Doctor extends User {
 	public String toString() {
 		return super.toString()	+ appointments.toString() ;
 	}
-		
 }

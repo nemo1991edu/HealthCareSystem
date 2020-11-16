@@ -80,7 +80,6 @@ public class Driver {
 		doctors.add(d3);
 		doctors.add(d4);
 				
-
 		Scanner input = new Scanner(System.in); //Scanner class cleate
 		while(true) {
 			System.out.println("Please enter your user. (d / p)");
