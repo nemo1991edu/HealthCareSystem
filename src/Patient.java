@@ -1,7 +1,6 @@
 import java.time.LocalDate;
 
 public class Patient extends User{
-	
 	private LocalDate dateBirth;
 	private char gender;
 	private String DEFAULT = "Unknown"; 
